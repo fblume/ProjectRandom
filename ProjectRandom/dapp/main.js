@@ -4,7 +4,6 @@ var customerAddress;
 var totalGain = 0;
 var totalCost = 0;
 var lastN = 0;
-var owner = false;
 
   $(document).ready(function(){
     window.ethereum.enable().then(function(accounts){
