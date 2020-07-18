@@ -1,0 +1,43 @@
+#canvas {
+  width: 600px;
+  height:150px;
+  margin-left:350px;
+  margin-right:0px;
+  margin-top:-195px;
+  margin-bottom:0px;
+}
+
+#gain_loss {
+  margin-left:0px;
+  margin-right:0px;
+  margin-top:10px;
+  margin-bottom:0px;
+}
+
+#total_gain_loss {
+  margin-left:0px;
+  margin-right:0px;
+  margin-top:10px;
+  margin-bottom:0px;
+}
+
+#withdraw_button {
+  margin-left:250px;
+  margin-right:0px;
+  margin-top:-44px;
+  margin-bottom:0px;
+}
+
+#withdraw_all_button {
+  margin-left:500px;
+  margin-right:0px;
+  margin-top:-38px;
+  margin-bottom:0px;
+}
+
+#place_your_bet {
+  margin-left:0px;
+  margin-right:0px;
+  margin-top:-10px;
+  margin-bottom:0px;
+}
