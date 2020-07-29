@@ -56,7 +56,8 @@ var owner = false;
                   randomValue = eventResult.returnValues.randomNumber;
                   if(queryIdResult == eventResult.returnValues.callbackQueryId){
                     numberAnimation(randomValue);
-                  }
+                  }else{
+                    checkEvent();
                 });
               }else{
                 console.log(error);
